@@ -24,7 +24,7 @@ spring.datasource.username= your user
 spring.datasource.password=your password
 ```
 
-> Replace `your user` and `your password with your local PostgreSQL credentials.
+> Replace `your user` and `your password` with your local PostgreSQL credentials.
 
 ### 2. Run the Database Scripts
 
